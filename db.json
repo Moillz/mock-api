@@ -1,0 +1,7 @@
+{
+"todos":[
+  {'id':1, 'text': 'Learn Vue.js'},
+  {'id':2, 'text': 'Create a project'},
+  {'id':3, 'text': 'Find a job'},
+],
+}
